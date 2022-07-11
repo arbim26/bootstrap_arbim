@@ -1,0 +1,46 @@
+/* background-color */
+.bgc-1{
+    background-color: #000F2C    
+}
+.bgc-2{
+    background-color: #021E55;
+}
+/* end backgroud color */
+/* color */
+.w-1{
+    color: #021E55;
+}
+/* color */
+/* NAVBAR */
+.navbar .navbar-brand img{
+    height: 60px;
+}
+/* END NAVBAR */
+/* HERO */
+#hero{
+    background-image: url(../img/HERO3.jpg);
+    background-size: cover; height: 550px;
+}
+#hero .container{
+    padding-top: 10%;
+}
+/* END HERO */ 
+/* OUR PRODUCT */
+#ourproduct img{
+    width: 100px;
+}
+/* END OUR PRODUCT */
+/* CLOUD */
+#cloud .container .hexagonarea .hexagon{
+    width: 175px;
+    height: 225px;
+    clip-path: polygon(0 20%, 50% 0, 100% 20%, 100% 75%, 50% 95%, 0 75% );
+    background: white;
+}
+/* END CLOUD */
+#hardware .container .hexagonarea .hexagon{
+    width: 300px;
+    height: 375px;
+    clip-path: polygon(0 20%, 50% 0, 100% 20%, 100% 75%, 50% 95%, 0 75% );
+    background: white;
+}
